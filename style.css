@@ -1,0 +1,39 @@
+.card-header{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    background:rgb(0, 0, 0);
+    margin-top: 10px;
+    border: 2px solid white;
+    width: 26rem;
+    
+}
+.card-body{
+    color:rgb(253, 249, 249);
+    text-align: center;
+    padding: 40px;
+    background:black;
+    font-family: 'Roboto', sans-serif;
+    height:fit-content;
+    width: 26rem;
+}
+
+.capital{
+    margin-top: 20px;
+    color: aqua;
+}
+.card{
+   background-image: url("https://countrylayer.com/wp-content/uploads/2021/10/weatherstack-Real-Time-World-Weather-REST-API-1-1.png");
+   
+}
+.box{
+    display: flex;
+    flex-wrap: wrap; 
+    margin: 10px;
+}
+div{
+    margin: 3px;
+}
+
+
+
